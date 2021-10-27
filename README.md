@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 # 
--🔭 I’m currently working with customer service
-- 🌱 I’m currently learning 
-- - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+🔭 I’m currently working with customer service
+🌱 I’m currently learning 
+🔭 I’m currently working on ...
+🌱 I’m currently learning ...
 <span style="display: inline_block"><br>
  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
 </span>
